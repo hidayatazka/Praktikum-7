@@ -98,4 +98,7 @@ while True:
         print("PILIHAN MENU TIDAK ADA!")
 
 ## OUTPUT PROGRAM
+![Screenshot (43)](https://user-images.githubusercontent.com/115676957/207482927-1199a15a-d288-4b92-b620-9ce7f5299e79.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/115676957/207482930-2259be5d-0ca5-44ae-902b-3db82d9c3207.png)
+
 
